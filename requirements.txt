@@ -1,0 +1,13 @@
+Flask
+requests
+scipy
+pandas
+Tinkerer
+opencv-python
+Pillow
+keras
+matplotlib
+tensorflow
+
+
+
